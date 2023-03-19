@@ -11,7 +11,7 @@ public class MultipleExceptionDemo {
 			e.printStackTrace();
 		}
 		
-		catch (can,t run Exception e) {
+		catch (CantrunException e) {
 			e.printStackTrace();
 			
 		}

@@ -11,7 +11,7 @@ public class App_New {
 
     public static void main(String[] args) {
         App_New obj = new App_New();
-        obj.validate(19);
+        obj.validate(20);
 
     }
 }

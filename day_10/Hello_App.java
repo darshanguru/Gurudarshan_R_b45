@@ -16,7 +16,7 @@ public class Hello_App {
     // nhavesh
     void m3() throws ArithmeticException {
         System.out.println("Arithmetic exception may be happen");
-        int a = 50 / 0;
+        int a = 50 / 10;
     }
 
     public static void main(String[] args) {

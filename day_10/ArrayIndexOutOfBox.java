@@ -8,7 +8,7 @@ public class ArrayIndexOutOfBox {
 
         try {
 
-            int i = arr[6];
+            int i = arr[5];
         } catch (Exception e) {
             e.printStackTrace();
         }

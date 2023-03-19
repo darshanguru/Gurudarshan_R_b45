@@ -6,7 +6,7 @@ public class VariableDemo {
     static int g = 25; // static variable
 
     public static void main(String[] args) {
-        int r = 23; // Local variable
+        int r = 33; // Local variable
 
         System.out.println(r);
 

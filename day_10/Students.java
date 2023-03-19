@@ -11,7 +11,7 @@ public class Students {
 
     public static void main(String[] args) {
         Students obj = new Students();
-        obj.validate(6);
+        obj.validate(5);
 
     }
 }
